@@ -11,6 +11,7 @@ const transporter = nodemailer.createTransport({
 
 // dummy
 
+
 // Message Received HTML email with logo
 const messageReceivedEmail = (contact) => {
     return `
